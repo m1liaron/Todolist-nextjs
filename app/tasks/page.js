@@ -1,4 +1,6 @@
-import { useEffect, useState } from "react/cjs/react.production.min";
+'use client';
+
+import { useEffect, useState } from "react";
 
 
 const TasksPage = () => {
